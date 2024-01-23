@@ -1,0 +1,5 @@
+Because this project incorporates John Zelle's `graphics.py` module, it inherits GPL v3.0 from that module.
+
+I prefer a CC-by-SA license, but at present I do not have time to build a suitable cleanroom implementation of a
+graphics library suitable for student projects (that is, one that does not require installation of modules that are
+not included in the standard Python distribution).
